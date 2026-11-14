@@ -1,0 +1,17 @@
+{
+  "python": "3.12.3",
+  "pandas": "3.1.1",
+  "numpy": "2.5.4",
+  "scikit-learn": "1.9.1",
+  "xgboost": "3.4.1",
+  "shap": "0.54.1",
+  "seed": 42,
+  "split": "60/20/20 stratified",
+  "train_idx_first5": [
+    3135,
+    3455,
+    1438,
+    1566,
+    4182
+  ]
+}

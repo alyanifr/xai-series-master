@@ -1,0 +1,17 @@
+{
+  "threshold": 0.24848484992980957,
+  "accuracy": 0.6956947162426614,
+  "balanced_accuracy": 0.745164609053498,
+  "precision_stroke": 0.11730205278592376,
+  "recall_stroke": 0.8,
+  "f1_stroke": 0.20460358056265984,
+  "f2_stroke": 0.36968576709796674,
+  "roc_auc": 0.8206790123456791,
+  "average_precision": 0.2604540820268512,
+  "prevalence_test": 0.04892367906066536,
+  "support_positive": 50,
+  "TN": 671,
+  "FP": 301,
+  "FN": 10,
+  "TP": 40
+}
