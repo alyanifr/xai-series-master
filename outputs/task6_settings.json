@@ -1,0 +1,28 @@
+{
+  "svm": {
+    "C": 1.0,
+    "break_ties": false,
+    "cache_size": 200,
+    "class_weight": "balanced",
+    "coef0": 0.0,
+    "decision_function_shape": "ovr",
+    "degree": 3,
+    "gamma": "scale",
+    "kernel": "rbf",
+    "max_iter": -1,
+    "probability": true,
+    "random_state": 42,
+    "shrinking": true,
+    "tol": 0.001,
+    "verbose": false
+  },
+  "kernel_shap": {
+    "n_explain": 200,
+    "n_background": 50,
+    "nsamples": 500,
+    "l1_reg": 0,
+    "seed": 42,
+    "runtime_s": 409.10723275000055,
+    "max_additivity_residual": 8.326672684688674e-17
+  }
+}

@@ -1,0 +1,23 @@
+rank,feature,mean_abs_shap,observed_pattern
+1,age,3.037655,higher values -> higher output (r=0.93)
+2,bmi,0.81757593,higher values -> higher output (r=0.39)
+3,avg_glucose_level,0.46521127,mixed / non-monotonic (r=0.25)
+4,hypertension,0.13673934,higher values -> higher output (r=0.91)
+5,smoking_status_Unknown,0.0924018,higher values -> lower output (r=-0.93)
+6,work_type_Self-employed,0.08991695,higher values -> lower output (r=-0.94)
+7,smoking_status_never smoked,0.08705408,higher values -> lower output (r=-0.93)
+8,smoking_status_smokes,0.08535636,higher values -> higher output (r=0.93)
+9,Residence_type_Rural,0.08034221,higher values -> higher output (r=0.46)
+10,missingindicator_bmi,0.075605094,higher values -> higher output (r=0.87)
+11,gender_Female,0.05445564,higher values -> higher output (r=0.83)
+12,smoking_status_formerly smoked,0.04707961,higher values -> higher output (r=0.62)
+13,ever_married_No,0.04289165,higher values -> higher output (r=0.37)
+14,work_type_Private,0.037446883,higher values -> higher output (r=0.82)
+15,heart_disease,0.023845218,higher values -> higher output (r=0.67)
+16,work_type_Govt_job,0.023642922,mixed / non-monotonic (r=0.23)
+17,ever_married_Yes,0.016361048,higher values -> lower output (r=-0.90)
+18,Residence_type_Urban,0.01504444,higher values -> lower output (r=-0.49)
+19,gender_Male,0.010451209,higher values -> lower output (r=-0.56)
+20,work_type_children,0.0057984297,higher values -> lower output (r=-0.87)
+21,work_type_Never_worked,0.0,constant / no variation
+22,gender_Other,0.0,constant / no variation

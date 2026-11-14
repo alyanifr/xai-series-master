@@ -1,0 +1,12 @@
+{
+  "anonymous_row_reference": "test-set row index 61",
+  "selection_rule": "highest-scoring true positive in the test set",
+  "actual_class": 1,
+  "predicted_class": 1,
+  "case_type": "True positive",
+  "threshold": 0.24848484992980957,
+  "model_probability_score": 0.9623711109161377,
+  "explained_output": "log-odds (raw margin) of stroke = 1",
+  "output_value_logodds": 3.241626262664795,
+  "base_value_logodds": 0.42761629819869995
+}

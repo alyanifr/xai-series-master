@@ -1,0 +1,12 @@
+,mean_abs_shap
+age,3.037652
+bmi,0.8175756
+avg_glucose_level,0.46521133
+smoking_status,0.22757624
+hypertension,0.13673958
+work_type,0.10590981
+Residence_type,0.09255614
+missingindicator_bmi,0.07560513
+gender,0.061813477
+ever_married,0.053466562
+heart_disease,0.023845233

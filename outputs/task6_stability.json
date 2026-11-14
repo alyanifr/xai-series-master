@@ -1,0 +1,19 @@
+{
+  "spearman": 0.8146892655367232,
+  "top5_a": [
+    "age",
+    "bmi",
+    "avg_glucose_level",
+    "work_type_Self-employed",
+    "smoking_status_Unknown"
+  ],
+  "top5_b": [
+    "age",
+    "bmi",
+    "avg_glucose_level",
+    "smoking_status_never smoked",
+    "smoking_status_smokes"
+  ],
+  "case_sign_changes": [],
+  "n_cases": 60
+}

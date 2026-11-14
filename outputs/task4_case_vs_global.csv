@@ -1,0 +1,6 @@
+feature,global_rank,case_value,case_shap,case_direction,global_pattern,case_|shap|_percentile
+age,1,80.0,2.336827278137207,up,higher values -> higher output (r=0.93),47.6
+hypertension,4,1.0,0.46360355615615845,up,higher values -> higher output (r=0.91),98.6
+avg_glucose_level,3,74.9,0.23763757944107056,up,mixed / non-monotonic (r=0.25),28.5
+bmi,2,22.2,-0.16192762553691864,down,higher values -> higher output (r=0.39),16.9
+smoking_status_never smoked,7,1.0,-0.15800443291664124,down,higher values -> lower output (r=-0.93),80.6

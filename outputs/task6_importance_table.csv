@@ -1,0 +1,23 @@
+rank,feature,mean_abs_shap_probability
+1,age,0.035974736301634884
+2,bmi,0.00702192677483505
+3,avg_glucose_level,0.0046157507822691644
+4,work_type_Self-employed,0.0044193986057499985
+5,smoking_status_never smoked,0.0041568301524562016
+6,smoking_status_Unknown,0.004144990861882226
+7,missingindicator_bmi,0.004125850009204859
+8,work_type_Private,0.0031621184849968437
+9,Residence_type_Rural,0.0026362347085607035
+10,Residence_type_Urban,0.0026281189664844364
+11,gender_Male,0.0026093311246767974
+12,gender_Female,0.002579173054963953
+13,smoking_status_smokes,0.002436602228225581
+14,hypertension,0.0021999613872323103
+15,smoking_status_formerly smoked,0.0018162548522430149
+16,work_type_Govt_job,0.001763958445460134
+17,ever_married_Yes,0.0015705517506963804
+18,ever_married_No,0.0014914570623895283
+19,heart_disease,0.0010127854589857528
+20,work_type_children,0.0009374985089502676
+21,work_type_Never_worked,0.0
+22,gender_Other,0.0
